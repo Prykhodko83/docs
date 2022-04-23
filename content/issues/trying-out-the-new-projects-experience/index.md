@@ -8,7 +8,7 @@ versions:
 topics:
   - Issues
   - Projects
-children:
+children://
   - /about-projects
   - /quickstart
   - /creating-a-project
